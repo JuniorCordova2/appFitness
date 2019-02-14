@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Energym Fitness</string>
+
+    //MENU
+    <string name="item1">ENTER</string>
+    <string name="item2">REGISTER</string>
+    <string name="item3">EXIT</string>
+
+    //LOGIN
+    <string name="Login">LOGIN</string>
+    <string name="BotonIngresar">ENTER</string>
+    <string name="txt_Nombre">USER</string>
+    <string name="txt_Contrasenia">PASSWORD</string>
+    <string name="ImgLogin">IMG</string>
+
+    //PDF
+    <string name="mainTitle">Lista de Instructores</string>
+
+
+    //ListaDeEstudiantes
+    <string name="titlels">List of Students</string>
+    <string name="estudiante">Personal Information</string>
+
+    //Formulario de Registro
+    <string name="titleRegisterForm">USER REGISTRATION</string>
+    <string name="email">Enter your email :</string>
+    <string name="telefono">User name :</string>
+    <string name="usuario">User code :</string>
+    <string name="password">Enter a strong password :</string>
+    <string name="botonRegistrar">REGISTER</string>
+
+    //MENU ESTUDIANTES
+    <string name="itemE1">MY INFORMATION</string>
+    <string name="itemE2">ATTENDANCE</string>
+    <string name="itemE3">EXIT</string>
+
+    //MENU ADMINISTRADOR
+    <string name="itemA1">MY INFORMATION</string>
+    <string name="itemA2">STUDENTS</string>
+    <string name="itemA3">ATTENDANCE</string>
+    <string name="itemA4">EXIT</string>
+
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyBjT8DamHvea_7XSm3rAND8uJ_Q8CWbNrg
+    </string>
+</resources>
